@@ -1,3 +1,5 @@
+package Aula01Heranca;
+
 public class moto extends Veiculo {
 
     private boolean guidao;

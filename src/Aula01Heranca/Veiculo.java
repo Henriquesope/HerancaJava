@@ -1,3 +1,5 @@
+package Aula01Heranca;
+
 public class Veiculo {
     private String modelo;
     private int velocidadeMaxima;

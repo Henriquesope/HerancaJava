@@ -1,3 +1,5 @@
+package Aula01Heranca;
+
 public class carro extends Veiculo {
 
     private int nPortas;
